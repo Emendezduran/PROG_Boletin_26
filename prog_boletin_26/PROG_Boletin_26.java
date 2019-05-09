@@ -15,7 +15,9 @@ public class PROG_Boletin_26 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        Ventana v1 = new Ventana();
+        v1.setVisible(true);
     }
     
 }
